@@ -10,4 +10,4 @@
     }];
 </br>
 
-                    ![image](https://github.com/jianghao562/JHPullRefresh/blob/master/screenshots/666.gif)
+                    ![image](https://github.com/jianghao562/JHPullRefresh/blob/master/screenshots/888.gif)
