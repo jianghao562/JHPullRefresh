@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9032D24D1F167C2900E589B7 /* 666.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9032D24C1F167C2900E589B7 /* 666.gif */; };
 		90FCC2231F166B4C0008B1DD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 90FCC2221F166B4C0008B1DD /* main.m */; };
 		90FCC2261F166B4C0008B1DD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 90FCC2251F166B4C0008B1DD /* AppDelegate.m */; };
 		90FCC22C1F166B4C0008B1DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90FCC22A1F166B4C0008B1DD /* Main.storyboard */; };
@@ -68,7 +67,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9032D24C1F167C2900E589B7 /* 666.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 666.gif; sourceTree = "<group>"; };
 		90FCC21E1F166B4C0008B1DD /* JHPullRefresh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JHPullRefresh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90FCC2221F166B4C0008B1DD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		90FCC2241F166B4C0008B1DD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -184,7 +182,6 @@
 		9032D2491F167BBF00E589B7 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				9032D24C1F167C2900E589B7 /* 666.gif */,
 			);
 			path = screenshots;
 			sourceTree = "<group>";
@@ -502,7 +499,6 @@
 			files = (
 				90FCC2311F166B4C0008B1DD /* LaunchScreen.storyboard in Resources */,
 				90FCC22E1F166B4C0008B1DD /* Assets.xcassets in Resources */,
-				9032D24D1F167C2900E589B7 /* 666.gif in Resources */,
 				90FCC2911F166C3F0008B1DD /* MJRefresh.bundle in Resources */,
 				90FCC22C1F166B4C0008B1DD /* Main.storyboard in Resources */,
 			);
